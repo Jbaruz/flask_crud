@@ -1,0 +1,22 @@
+h1{
+    color: pink;
+    border-radius: 5px;
+    padding: 5px;
+}
+table tr td{
+    width: 50px;
+    height: 50px;
+    
+}
+h1, .tablero{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.color1 {
+    background-color: brown;
+}
+.color2{
+    background-color: yellow;
+}
